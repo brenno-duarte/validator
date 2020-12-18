@@ -1,0 +1,10 @@
+{
+    "name": "brenno-duarte/validator",
+    "description": "Componente para validar CPF, CNPJ, telefone, e-mail e URL",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Validator\\": "src/"
+        }
+    }
+}
