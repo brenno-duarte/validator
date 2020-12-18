@@ -6,7 +6,7 @@
         "psr-4": {
             "Validator\\": "src/"
         }
-    }
+    },
     "require": {
         "php": ">= 7.2"
     }
